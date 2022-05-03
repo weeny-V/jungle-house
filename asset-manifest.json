@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jungle-house/static/css/main.8c96375f.css",
-    "main.js": "/jungle-house/static/js/main.75e7b8d5.js",
+    "main.js": "/jungle-house/static/js/main.87083351.js",
     "static/media/olive.jpg": "/jungle-house/static/media/olive.b2908b40d9fb7f86626b.jpg",
     "static/media/monstera.jpg": "/jungle-house/static/media/monstera.6257bc6b1e699fa6dde1.jpg",
     "static/media/basil.jpg": "/jungle-house/static/media/basil.be00474e950eb5af0054.jpg",
@@ -17,10 +17,10 @@
     "static/media/water.svg": "/jungle-house/static/media/water.cceb486fe1f26063bde712aa9fd7ea1e.svg",
     "index.html": "/jungle-house/index.html",
     "main.8c96375f.css.map": "/jungle-house/static/css/main.8c96375f.css.map",
-    "main.75e7b8d5.js.map": "/jungle-house/static/js/main.75e7b8d5.js.map"
+    "main.87083351.js.map": "/jungle-house/static/js/main.87083351.js.map"
   },
   "entrypoints": [
     "static/css/main.8c96375f.css",
-    "static/js/main.75e7b8d5.js"
+    "static/js/main.87083351.js"
   ]
 }
