@@ -45,7 +45,7 @@ const Cart = ({cart, updateCart}: CartInterface) => {
                 className='jh-cart__toggle-button shoppingBag'
                 onClick={() => setIsOpen(true)}
             >
-                <img src={shoppingBag}/>
+                <img src={shoppingBag} alt='shoppingBag'/>
             </div>
         </div>
     )
