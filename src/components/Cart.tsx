@@ -32,7 +32,7 @@ const Cart = ({cart, updateCart}: CartInterface) => {
                             </div>
                         ))}
                     </ul>
-                    <h3 className='jh-cart__total'>Total :{'total'}€</h3>
+                    <h3 className='jh-cart__total'>Total :{total}€</h3>
                     <button className='clearBusket' onClick={() => updateCart([])}>Clear Basket</button>
                 </div>
             ) : (
